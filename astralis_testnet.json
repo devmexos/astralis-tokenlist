@@ -18,6 +18,16 @@
       "decimals": 18,
       "logoURI": "https://astralischain.com/assets/img/icons/coins/usdt.png",
       "description": "USDT for testing environment."
+    },
+    {
+      "origin": "legacy",
+      "chainId": 71261,
+      "address": "0xdb03ec897ec4909c9a9eb6feec04a94bfc5ee77d",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://astralischain.com/assets/img/icons/coins/usdc.png",
+      "description": "USDC for testing environment."
     }
   ],
   "version": {
