@@ -1,0 +1,28 @@
+{
+  "name": "Astralis",
+  "logoURI": "https://astralischain.com/assets/img/iso.png",
+  "timestamp": "2024-04-29T18:27:01.188Z",
+  "keywords": [
+    "astralis",
+    "DeFi",
+    "ASTCH",
+    "Testnet"
+  ],
+  "tokens": [
+    {
+      "origin": "legacy",
+      "chainId": 71261,
+      "address": "0x5b0b748fb767753730c3f6660ce0e42c0a6ef6e1",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://astralischain.com/assets/img/icons/coins/usdt.png",
+      "description": "USDT for testing environment."
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
